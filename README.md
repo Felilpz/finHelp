@@ -1,2 +1,2 @@
 # finVault
-Financial Vault
+Financial Vault Frontend
